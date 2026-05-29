@@ -256,7 +256,9 @@ www.youtube.com###secondary
 <img width="1904" height="1016" alt="image" src="https://github.com/user-attachments/assets/4b1939fe-5e26-4bcf-9a9e-4eea364684a7" />
 
 <h3>Twitter</h3>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05d2146d-aa41-45d4-88ab-2145200b314f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b9419e1-ab4c-4e63-99dd-ce40956b2cbe" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d031b38a-4ccb-4cd8-8922-22a6127c4491" />
+
 
 <h3>Instagram</h3>
 <img width="1920" height="3364" alt="image" src="https://github.com/user-attachments/assets/7822ca24-cfd6-4403-abb3-ed2fb98179d3" />
