@@ -5,7 +5,7 @@ Extensions I use: uBlock Origin, Enhancer for Youtube, SocialFocus, Unhook & Tub
 
 ## Table of Contents
 
-**1.** [**YouTube**](https://github.com/my-super-minimalist-themes#Youtube (Enhancer for Youtube))
+**1.** [YouTube](#youtube)
 
 **2.** [**Ublock Origin: Twitter/Instagram/Reddit/YouTube**](https://github.com/Wisdawms/my-super-minimalist-themes#twitterinstagramreddityoutube-ublock-origin-filters)
 
