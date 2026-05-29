@@ -1,9 +1,22 @@
 # my-super-minimalist-themes
 
 Extensions I use: uBlock Origin, Enhancer for Youtube, SocialFocus, Unhook & Tubemod, Zen Internet (optional)
+<hr>
 
-## Youtube (Enhancer for Youtube)
-<h2> After installing <a href="https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle">Enhancer for YouTube</a> extension, go to its settings and paste this code in the 'Custom Theme' box after checking it: </h2>
+## Table of Contents
+
+**1.** [**YouTube**](https://github.com/my-super-minimalist-themes/Youtube (Enhancer for Youtube))
+
+**2.** [**Ublock Origin: Twitter/Instagram/Reddit/YouTube**](https://github.com/Wisdawms/my-super-minimalist-themes#twitterinstagramreddityoutube-ublock-origin-filters)
+
+**3.** [**Screenshots**](https://github.com/my-super-minimalist-themes/screenshots)
+
+
+
+
+
+## YouTube (Enhancer for Youtube) 
+After installing <a href="https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle">Enhancer for YouTube</a> extension, go to its settings and paste this code in the 'Custom Theme' box after checking it:
 
 <pre>
   <code>
@@ -180,7 +193,7 @@ width: 100% !important;
   </code>
 </pre>
 
-## Twitter/Instagram/Reddit/YouTube (uBlock Origin filters)<br>
+## Ublock Origin: Twitter/Instagram/Reddit/YouTube<br>
 
 <pre>
   <code>
