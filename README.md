@@ -1,5 +1,7 @@
 # my-super-minimalist-themes
 
+Extensions I use: uBlock Origin, Enhancer for Youtube, SocialFocus, Unhook & Tubemod, Zen Internet (optional)
+
 ## Youtube (Enhancer for Youtube)
 <h2> After installing <a href="https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle">Enhancer for YouTube</a> extension, go to its settings and paste this code in the 'Custom Theme' box after checking it: </h2>
 
@@ -178,7 +180,7 @@ width: 100% !important;
   </code>
 </pre>
 
-## X/Instagram/Reddit/YouTube (uBlock Origin filters)<br>
+## Twitter/Instagram/Reddit/YouTube (uBlock Origin filters)<br>
 
 <pre>
   <code>
@@ -232,12 +234,22 @@ www.twitch.tv##div.side-nav-section.iGMbNn.Layout-sc-1xcs6mc-0:nth-of-type(4)
 www.youtube.com###secondary
 
   </code>
-</pre>
-<br>
+</pre> <br>
 
 <h2>Screenshots</h2>
 
+<h3>YouTube</h3>
 <img width="1920" height="4116" alt="Screenshot 2026-05-30 at 00-18-24 Blonde Redhead - Kiss Her Kiss Her (Live on KEXP) - YouTube" src="https://github.com/user-attachments/assets/d5b4be5d-1177-4ecd-b836-b8fba5506999" />
+<img width="1904" height="1016" alt="image" src="https://github.com/user-attachments/assets/4b1939fe-5e26-4bcf-9a9e-4eea364684a7" />
 
+<h3>Twitter</h3>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05d2146d-aa41-45d4-88ab-2145200b314f" />
+
+<h3>Instagram</h3>
+<img width="1920" height="3364" alt="image" src="https://github.com/user-attachments/assets/7822ca24-cfd6-4403-abb3-ed2fb98179d3" />
+<img width="1904" height="1016" alt="image" src="https://github.com/user-attachments/assets/358d6239-136b-40d0-8c13-0ad1c4bd60c5" />
+
+
+<h3>Reddit</h3>
+<img width="1920" height="2782" alt="image" src="https://github.com/user-attachments/assets/a0072772-9e0f-4b18-986d-95ef88dfb631" />
 
