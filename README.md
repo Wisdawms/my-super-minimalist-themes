@@ -1,6 +1,6 @@
 # my-super-minimalist-themes
 
-Extensions I use: uBlock Origin, Enhancer for Youtube, SocialFocus, Unhook & Tubemod, Zen Internet (optional)
+Extensions I use: uBlock Origin, Enhancer for Youtube, SocialFocus, Unhook & Tubemod, Stylus, Zen Internet (optional)
 <hr>
 
 ## Table of Contents
@@ -9,7 +9,9 @@ Extensions I use: uBlock Origin, Enhancer for Youtube, SocialFocus, Unhook & Tub
 
 **2.** [**Ublock Origin: Twitter/Instagram/Reddit/YouTube**](#ublock-origin-twitterinstagramreddityoutube)
 
-**3.** [**Screenshots**](#screenshots)
+**3.** [**Stylus (Twitter)**](#stylus-twitter)
+
+**4.** [**Screenshots**](#screenshots)
 
 
 
@@ -247,7 +249,53 @@ www.twitch.tv##div.side-nav-section.iGMbNn.Layout-sc-1xcs6mc-0:nth-of-type(4)
 www.youtube.com###secondary
 
   </code>
-</pre> <br>
+</pre> 
+<br>
+
+## Stylus (Twitter)<br>
+ 
+<pre>
+  <code>
+:root { --dimmer-text: #484054; --hover-background: #232225; --main-background: #121112; --main-color: #3e3847; --main-text: #725e4b; --second-background: #19191a; --shadow: 0 1px .5px rgba(23, 22, 23, .2);
+}
+
+body, .r-kemksi, .r-5zmot {
+background-color: #0C0C0C !important;
+
+}
+
+
+body * {
+    color: var(--main-text) !important;
+}
+
+[class="css-175oi2r r-xoduu5 r-1kihuf0 r-sdzlij r-1p0dtai r-hdaws3 r-s8bhmr r-u8s1d r-13qz1uu"]
+{
+background-color: var(--main-color) !important;
+}
+
+[data-testid="SideNav_NewTweet_Button"] {
+background-color: var(--second-background) !important;
+}
+
+
+[data-testid="SideNav_NewTweet_Button"]:hover {
+background-color: var(--hover-background) !important;
+}
+
+
+
+:root a, [data-testid="UserUrl"] span {
+color: var(--main-color) !important;
+}
+
+*::selection{
+background-color: var(--second-background) !important;
+}
+
+  </code>
+</pre> 
+<br>
 
 <h2>Screenshots</h2>
 
